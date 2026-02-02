@@ -20,90 +20,194 @@
 ## 👨‍💻 About Me
 
 Software & Web Developer in training and **Software Development and Management Engineering student at Universidad Tecnológica El Retoño**.  
-I focus on building **real-world projects** using modern technologies across **frontend, backend, automation, and game development**.
-
-I enjoy learning by building, collaborating in team projects, and improving systems step by step.
+I focus on building **real-world projects** using modern technologies across **frontend, backend, automation, and game development**, learning by building and collaborating.
 
 ---
 
-## 🧩 Tech Stack (by Area)
+## 🧩 Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Vite
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Vite  
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 Backend
-- Node.js
-- Express
-- REST APIs
-- CRUD systems
+- Node.js  
+- Express  
+- REST APIs  
+- CRUD systems  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Automation / AI
-- n8n
-- Webhooks
-- Workflow automation
+- n8n  
+- Webhooks  
+- Workflow automation  
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎮 Game Development
-- Unity
-- C#
+- Unity  
+- C#  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Data Analysis
 - Python (basic data scripts)
 
+</td>
+<td width="50%" valign="top">
+
 ### 🛠 Tools
-- Git
-- GitHub
-- VS Code
+- Git  
+- GitHub  
+- VS Code  
 
----## ⭐ Featured Projects (Most Important)
-
-### 🤖 AI Agent – Automation with n8n
-**AI-powered automation agent** built using **n8n**, focused on workflows, webhooks, and intelligent process automation.
-
-- Handles requests through webhooks
-- Automates logic flows and responses
-- Designed to understand automation + AI integration concepts
-
-**Tech Stack:**  
-`n8n` · `Webhooks` · `Automation` · `AI logic`
-
-> 📝 Built using a free n8n Cloud trial (currently expired), fully reproducible and documented.
+</td>
+</tr>
+</table>
 
 ---
 
-### 🍔 Lonchería Web Application (Full Stack)
-**Full-stack collaborative project** for a lonchería business.
+## ⭐ Featured Projects
 
-#### 🔧 Backend (Contributor)
-- REST API built with **Node.js & Express**
-- CRUD operations
-- Routing and server-side logic
-- API structure and data handling
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI Agent – n8n</h3>
+
+**AI-powered automation agent** built with **n8n**, focused on workflows and webhook-based automation.
+
+- Request handling via webhooks  
+- Automated logic flows  
+- AI + automation fundamentals  
+
+**Tech:**  
+`n8n` · `Webhooks` · `Automation`
+
+> Built using a free n8n Cloud trial (expired), fully reproducible.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🍔 Lonchería – Backend API</h3>
+
+**Collaborative REST API** for a real business project.
+
+- Node.js + Express  
+- CRUD operations  
+- Routing & server logic  
 
 🔗 Repo:  
-👉 https://github.com/chuynor/BACK_LONCHERIA
+https://github.com/chuynor/BACK_LONCHERIA  
 
-#### 🎨 Frontend (Contributor)
-- Modern frontend built with **React + Vite**
-- Fast development environment
-- Component-based UI
-- API consumption from backend
+**Tech:**  
+`Node.js` · `Express` · `REST API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚛️ Lonchería – Frontend</h3>
+
+Modern frontend built with **React + Vite**.
+
+- Fast dev environment  
+- Component-based UI  
+- Backend API consumption  
 
 🔗 Repo:  
-👉 https://github.com/chuynor/FRONT_LONCHERIA
+https://github.com/chuynor/FRONT_LONCHERIA  
 
-**Tech Stack:**  
-`Node.js` · `Express` · `React` · `Vite` · `JavaScript` · `REST API`
+**Tech:**  
+`React` · `Vite` · `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎮 Unity Projects</h3>
+
+Game development projects and mechanics.
+
+- C# scripting  
+- Gameplay logic  
+- Interactive systems  
+
+**Tech:**  
+`Unity` · `C#`
+
+</td>
+</tr>
+</table>
 
 ---
+
 ## 🚀 Other Projects
 
-- 🌐 **Personal Web Portfolio** – Built with HTML & CSS  
-- ⚛️ **React + Vite Mini Projects** – Practice and experimentation  
-- 🎮 **Unity Game Projects** – Mechanics and interactive systems  
-- 📊 **Python Scripts** – Data processing and learning projects  
+<table>
+<tr>
+<td width="50%">
+
+🌐 **Personal Web Portfolio**  
+Built with HTML & CSS.
+
+</td>
+<td width="50%">
+
+⚛️ **React + Vite Mini Projects**  
+Practice & experimentation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+📊 **Python Scripts**  
+Basic data analysis projects.
+
+</td>
+<td width="50%">
+
+🧠 **Learning Projects**  
+Small experiments and prototypes.
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isaac4023&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isaac4023&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac4023&theme=tokyonight" />
+</p>

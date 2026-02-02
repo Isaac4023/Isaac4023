@@ -10,7 +10,7 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Isaac4023?style=social)](https://github.com/Isaac4023)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuel-isaac-delgado-lopez-55b200279)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-isaac-delgado-lopez-55b200279/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:st4023@utr.edu.mx)
 
 </div>
@@ -107,10 +107,3 @@ I enjoy learning by building, collaborating in team projects, and improving syst
 - 📊 **Python Scripts** – Data processing and learning projects  
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaac4023&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac4023&layout=compact&langs_count=8&theme=algolia"/>
-</p>

@@ -110,6 +110,25 @@ I focus on building **real-world projects** using modern technologies across **f
 
 <td width="50%" valign="top">
 
+<h3 align="center">🏦 Crédito Banco Alemán – ML Project</h3>
+
+Machine Learning classification project built in **Google Colab** to predict credit approval probability based on financial data.
+
+- Full EDA process  
+- Data preprocessing & feature encoding  
+- Model training & evaluation  
+- Performance comparison  
+
+🔗 Notebook:  
+https://colab.research.google.com/drive/1E9mrxjhF1Pk8cUekRoJulGUH-05e9833?usp=sharing  
+
+<strong>Tech:</strong><br>
+<code>Python</code> · <code>Pandas</code> · <code>Scikit-learn</code> · <code>XGBoost</code> · <code>Matplotlib</code>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3 align="center">🍔 Lonchería – Backend API</h3>
 
 **Collaborative REST API** for a real business project.
@@ -184,12 +203,7 @@ Practice & experimentation.
 </tr>
 
 <tr>
-<td width="50%">
 
-📊 **Python Scripts**  
-Basic data analysis projects.
-
-</td>
 <td width="50%">
 
 🧠 **Learning Projects**  
